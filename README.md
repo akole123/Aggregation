@@ -1,7 +1,7 @@
 # Aggregation
 Aggregate table by extracting selected information.
 
-Run instructions
+# Run instructions
 $ java Aggregate sum population 2001-2011_census_population.csv year
 $ java Aggregate sum population 2001-2011_census_population.csv province year
 $ java Aggregate count population 2001-2011_census_population.csv province year
